@@ -2,7 +2,7 @@
 define("host", "localhost");
 define("bd", "proyecto");
 define("user", "root");
-define("password", "brandon18");
+define("password", "Multi2018");
 
 define("urlsite", "http://localhost/Proyecto/");
 
